@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BDA 2기 — GitHub Archive 분석
 
 GitHub Archive(BigQuery) 데이터를 일별 집계로 추출하고, popularity 기반 추천 baseline을 구축하는 실습 프로젝트.
@@ -146,3 +147,7 @@ uv run jupyter lab
 | matplotlib | 시각화 |
 | tqdm | 진행률 표시 |
 | ipykernel | Jupyter 커널 |
+=======
+# bda-2
+bda-2
+>>>>>>> bce981ed419b66c43ea51e8473d1210dfeb340ee
